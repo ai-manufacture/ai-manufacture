@@ -60,8 +60,9 @@
 
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazvanieqqqq&theme=dracula)
 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=frizyyu&theme=dark)](https://git.io/streak-stats)
+<div>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=frizyyu&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 ---
 
 ## 🚀 Наши Кейсы и Проекты
