@@ -39,9 +39,10 @@
 
 ## 📊 Статистика использования языков в наших проектах
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-company&layout=compact&theme=dark&hide=html,css)
 
-*Примечание: Статистика основана на анализе наших публичных репозиториев.*
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-company-name&layout=compact&theme=dark)
+
+*Статистика основана на анализе наших публичных репозиториев организации.*
 
 ---
 
@@ -49,13 +50,13 @@
 
 | Проект | Описание | Технологии | Ссылка на репозиторий |
 |--------|-----------|------------|---------------------|
-| **AI-бот для Telegram/WhatsApp** | Бот для поддержки и продаж с интеграцией GPT/Claude | Python, OpenAI API, Telegram API, WhatsApp Business API | [#](https://github.com/your-company/ai-bot) |
-| **Парсер маркетплейсов** | Сбор данных с Wildberries и других площадок | Python, Requests, BeautifulSoup, PostgreSQL | [#](https://github.com/your-company/marketplace-parser) |
-| **Telegram-игра с TON** | Игра с внутриигровой валютой на блокчейне TON | JavaScript, TON Blockchain API, Telegram Mini Apps | [#](https://github.com/your-company/ton-telegram-game) |
-| **Система email-рассылок** | Софт для рассылок с обходом спам-фильтров | Python, SMTP, PostgreSQL | [#](https://github.com/your-company/email-automation) |
-| **Автономные ИИ-агенты** | Агенты для автоматизации бизнес-процессов | Python, RAG, AI Frameworks | [#](https://github.com/your-company/ai-agents) |
-| **Full-stack веб-приложения** | Разработка сайтов под различные задачи | React, Vue.js, Node.js, PostgreSQL | [#](https://github.com/your-company/fullstack-app) |
-| **Интеграция платежных систем** | Подключение оплаты к различным сервисам | Java, Kotlin, Payment APIs | [#](https://github.com/your-company/payment-integration) |
+| **AI-бот для Telegram/WhatsApp** | Бот для поддержки и продаж с интеграцией GPT/Claude | Python, OpenAI API, Telegram API, WhatsApp Business API | [Смотреть код](https://github.com/your-company/ai-bot) |
+| **Парсер маркетплейсов** | Сбор данных с Wildberries и других площадок | Python, Requests, BeautifulSoup, PostgreSQL | [Смотреть код](https://github.com/your-company/marketplace-parser) |
+| **Telegram-игра с TON** | Игра с внутриигровой валютой на блокчейне TON | JavaScript, TON Blockchain API, Telegram Mini Apps | [Смотреть код](https://github.com/your-company/ton-telegram-game) |
+| **Система email-рассылок** | Софт для рассылок с обходом спам-фильтров | Python, SMTP, PostgreSQL | [Смотреть код](https://github.com/your-company/email-automation) |
+| **Автономные ИИ-агенты** | Агенты для автоматизации бизнес-процессов | Python, RAG, AI Frameworks | [Смотреть код](https://github.com/your-company/ai-agents) |
+| **Full-stack веб-приложения** | Разработка сайтов под различные задачи | React, Vue.js, Node.js, PostgreSQL | [Смотреть код](https://github.com/your-company/fullstack-app) |
+| **Интеграция платежных систем** | Подключение оплаты к различным сервисам | Java, Kotlin, Payment APIs | [Смотреть код](https://github.com/your-company/payment-integration) |
 
 ---
 
