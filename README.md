@@ -107,7 +107,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazvanieqqqq&layout=compact&theme=dark&hide=html,jupyter%20notebook,batchfile,powershell,shell)
 
-*Статистика основана на анализе наших публичных репозиториев организации.*
+*Статистика основана на анализе наших публичных репозиториев.*
 
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazvanieqqqq&theme=dracula)
 
