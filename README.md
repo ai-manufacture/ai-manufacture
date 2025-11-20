@@ -72,7 +72,7 @@
 | **Telegram-игра с TON** | Игра с внутриигровой валютой на блокчейне TON | JavaScript, TON Blockchain API, Telegram Mini Apps | 
 | **Система email-рассылок** | Софт для рассылок с обходом спам-фильтров | Python, SMTP, PostgreSQL |
 | **Автономные ИИ-агенты** | Агенты для автоматизации бизнес-процессов | Python, RAG, AI Frameworks | 
-| **Full-stack веб-приложения** | Разработка сайтов под различные задачи | React, Vue.js, Node.js, PostgreSQL | 
+| **Full-stack веб-приложения** | Разработка сайтов под различные задачи | React, Vue.js, Node.js, PostgreSQL, Spring, Java EE | 
 | **Интеграция платежных систем** | Подключение оплаты к различным сервисам | Java, Kotlin, Payment APIs |
 ---
 
