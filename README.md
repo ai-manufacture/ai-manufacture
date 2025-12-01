@@ -141,9 +141,9 @@
 ## 📫 Контакты
 
 - **Email:** team@your-company.com
-- **Telegram:** @your_company
+- **Telegram:** @portcompany
 - **Website:** coming 
 
 ---
 
-*© 2025 Your IT Company. Все права защищены.*
+*© 2025 ИИ Мануфактура. Все права защищены.*
