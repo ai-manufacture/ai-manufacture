@@ -141,7 +141,7 @@
 
 
 - **Telegram:** @manufactureai
-- **Website:** coming 
+- **Website:** (https://ai-manufacture.ru/)
 - +7(965)007-88-51
 ---
 
